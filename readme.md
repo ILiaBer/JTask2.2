@@ -14,3 +14,7 @@
 
 [Дефект](https://github.com/ILiaBer/JTask2.2/issues/1)
 
+Тестирование производилось в следующем окружении:
+
+Windows 7 64бит
+Java version 11
